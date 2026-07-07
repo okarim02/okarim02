@@ -1,13 +1,15 @@
 ## Hi there 👋
 Backend & full-stack software engineer based in Belfort, France, currently open to new opportunities in France, Switzerland, and more broadly across Europe.
 
-⚡**Now:** R&D engineer at UTBM on Alison++ (with CHU Besançon), building real-time physiological data collection.
-🌱**Before:** ~3 years full-stack, backend/APIs in production (document engineering, e-commerce, medical research).
-🔭**Stack:** Java, Spring Boot, TypeScript, NestJS, React, PostgreSQL
+⚡ **Now:** R&D engineer at UTBM on Alison++ (with CHU Besançon), building real-time physiological data collection.
 
-💬**Background:** Engineering degree (Computer Science), UTBM.
+🌱 **Before:** ~3 years full-stack, backend/APIs in production (document engineering, e-commerce, medical research).
 
-🤔**Contact:** [LinkedIn](https://www.linkedin.com/in/ounis-karim-0983481b1) · ounis.karim008@gmail.com
+🔭 **Stack:** Java, Spring Boot, TypeScript, NestJS, React, PostgreSQL
+
+🎓 **Background:** Engineering degree (Computer Science), UTBM. DUT Informatique, IUT Nord Franche-Comté.
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ounis-karim-0983481b1) · ounis.karim008@gmail.com
 
 <!--
 **okarim02/okarim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
